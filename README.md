@@ -49,7 +49,7 @@ The plugin uses a **complex scanning algorithm**:
 ---
 
 ## License 📜
-Released under the **MIT License** — free to **use, modify, and distribute**. See LICENSE file for details.  
+Released under the **MIT License**: free to **use, modify, and distribute**. See LICENSE file for details.  
 
 ---
 
