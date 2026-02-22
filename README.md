@@ -52,7 +52,6 @@ The plugin uses a **complex scanning algorithm**:
 **Demonstration video:**
 
 https://github.com/user-attachments/assets/46fad58e-f917-489f-afb3-0e7fd6d2700b
-<video width="2048" height="1016" alt="image" src="https://github.com/user-attachments/assets/46fad58e-f917-489f-afb3-0e7fd6d2700b" />
 
 ---
 
