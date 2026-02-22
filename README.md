@@ -19,7 +19,7 @@ Track, manage, and explore all **RemoteEvents** and **BindableEvents** in your R
 ---
 
 ## Installation 🛠️
-1. Download the plugin `.rbxm` or `.rbxmx` file  
+1. Download the plugin `.rbxm` file (you can find it in src)
 2. Open Roblox Studio  
 3. Go to **Explorer → Plugin → Save as local plugin**  
 4. Load the plugin in your game
@@ -46,20 +46,24 @@ The plugin uses a **complex scanning algorithm**:
 - Analyzes all scripts in your game  
 - Detects where events are fired (`FireServer`, `FireClient`, `Fire`)  
 - Detects where events are listened to (`OnServerEvent`, `OnClientEvent`, `Event`)  
-- Collects line references and previews so you can jump straight to the code  
+- Collects line references and previews so you can jump straight to the code
+- No matter if you defined the event instance or if you just used something like game.ReplicatedStorage.Events.CoolEvent.
 
 **Demonstration video:**
+
 https://github.com/user-attachments/assets/46fad58e-f917-489f-afb3-0e7fd6d2700b
 <video width="2048" height="1016" alt="image" src="https://github.com/user-attachments/assets/46fad58e-f917-489f-afb3-0e7fd6d2700b" />
 
 ---
 
 ## License 📜
-Released under the **MIT License**: free to **use, modify, and distribute**. See LICENSE file for details.  
+Released under the **MIT License**: free to **use, modify, and distribute**. Please see the LICENSE file for more details.  
 
 ---
 
-## Support & Feedback 💌
+## Support & Feedback 😁
 - Questions or suggestions? Contact us via [Fox Jet Studios](https://foxjetstudios.com/contact)  
 - Follow us on social media [Fox Jet Studios](https://foxjetstudios.com/followus)  
 - Your feedback makes the plugin even better!  
+
+Happy building!
