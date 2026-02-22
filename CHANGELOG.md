@@ -4,3 +4,6 @@
 
 ## [1.2.0] - 2026-02-20
 - Bug fixes and UI Improvements
+
+## [1.2.1] - 2026-02-22
+- File extension changes
