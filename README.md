@@ -3,8 +3,6 @@
 
 Track, manage, and explore all **RemoteEvents** and **BindableEvents** in your Roblox game with zero hassle. Powered by a **smart algorithm** that scans scripts to locate event listeners and firers.
 
-### Official Plugin: [Event Tracker - Roblox Creator Store](https://create.roblox.com/store/asset/100479477788872/Event-Tracker)
-
 ---
 
 ## Features ✨
