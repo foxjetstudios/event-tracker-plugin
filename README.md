@@ -1,7 +1,9 @@
 # Event Tracker ⚡️
 **By Fox Jet Studios**
 
-Track, manage, and explore all **RemoteEvents** and **BindableEvents** in your Roblox game with zero hassle. Powered by a **smart algorithm** that scans scripts to locate event listeners and firers.
+A tool for Roblox Studio for you to track and manage all Events in your Roblox game with zero hassle.
+
+### Official Plugin: [Event Tracker - Roblox Creator Store](https://create.roblox.com/store/asset/100479477788872/Event-Tracker)
 
 ---
 
@@ -10,8 +12,8 @@ Track, manage, and explore all **RemoteEvents** and **BindableEvents** in your R
 - ✅ Powerful algorithm that analyzes your scripts to find where events are fired and listened to  
 - ✅ Quickly view **event triggers and listeners**  
 - ✅ Inspect **script connections** and line references for each event  
-- ✅ Delete events safely using a **confirmation modal**  
-- ✅ Search and filter events in real time
+- ✅ See unused events
+- ✅ Search events
 - ✅ Lightweight, modern, and user-friendly interface
 
 ---
@@ -29,7 +31,7 @@ Track, manage, and explore all **RemoteEvents** and **BindableEvents** in your R
 ---
 
 ## How It Works ⚡
-The plugin uses a **complex scanning algorithm**:  
+The plugin uses a **code scanning algorithm**:  
 - Analyzes all scripts in your game  
 - Detects where events are fired (`FireServer`, `FireClient`, `Fire`)  
 - Detects where events are listened to (`OnServerEvent`, `OnClientEvent`, `Event`)  
